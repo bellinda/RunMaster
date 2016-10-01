@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 070a345f148a244428d515b63d0b244c
+timeCreated: 1475317061
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cheetah_0
+    21300002: cheetah_1
+    21300004: cheetah_2
+    21300006: cheetah_3
+    21300008: cheetah_4
+    21300010: cheetah_5
+    21300012: cheetah_6
+    21300014: cheetah_7
+    21300016: cheetah_8
+    21300018: cheetah_9
+    21300020: cheetah_10
+    21300022: cheetah_11
+    21300024: cheetah_12
+    21300026: cheetah_13
+    21300028: cheetah_14
+    21300030: cheetah_15
+    21300032: cheetah_16
+    21300034: cheetah_17
+    21300036: cheetah_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cheetah_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2604
+        width: 465
+        height: 207
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_1
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2574
+        width: 446
+        height: 237
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_2
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2520
+        width: 463
+        height: 342
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 2292
+        width: 456
+        height: 176
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_4
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2263
+        width: 586
+        height: 236
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1982
+        width: 603
+        height: 227
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1998
+        width: 697
+        height: 211
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1708
+        width: 760
+        height: 191
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_8
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1681
+        width: 735
+        height: 218
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1340
+        width: 715
+        height: 254
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1340
+        width: 672
+        height: 252
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_11
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1047
+        width: 630
+        height: 260
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_12
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1047
+        width: 587
+        height: 251
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_13
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 740
+        width: 577
+        height: 266
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_14
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 740
+        width: 570
+        height: 244
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 406
+        width: 567
+        height: 268
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_16
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 406
+        width: 568
+        height: 258
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 64
+        width: 570
+        height: 252
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cheetah_18
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 64
+        width: 572
+        height: 257
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
